@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace AdventOfCode2023
 {
-    class Program2
+    class Day1P2
     {
         static long TicksToNanoseconds(long ticks)
         {

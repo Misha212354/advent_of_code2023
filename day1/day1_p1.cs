@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace AdventOfCode2023
 {
-    class Program1
+    class Day1P1
     {
         static void Main()
         {

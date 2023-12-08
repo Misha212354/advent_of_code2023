@@ -1,0 +1,15 @@
+C:\Users\Michael Terekhov\advent_of_code2023\day2\bin\Debug\net7.0\day2.exe
+C:\Users\Michael Terekhov\advent_of_code2023\day2\bin\Debug\net7.0\day2.deps.json
+C:\Users\Michael Terekhov\advent_of_code2023\day2\bin\Debug\net7.0\day2.runtimeconfig.json
+C:\Users\Michael Terekhov\advent_of_code2023\day2\bin\Debug\net7.0\day2.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day2\bin\Debug\net7.0\day2.pdb
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.csproj.AssemblyReference.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.AssemblyInfoInputs.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.AssemblyInfo.cs
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\refint\day2.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.pdb
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\day2.genruntimeconfig.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day2\obj\Debug\net7.0\ref\day2.dll
