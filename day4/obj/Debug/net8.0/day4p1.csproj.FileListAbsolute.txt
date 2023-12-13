@@ -1,0 +1,15 @@
+C:\Users\Michael Terekhov\advent_of_code2023\day4\bin\Debug\net8.0\day4p1.exe
+C:\Users\Michael Terekhov\advent_of_code2023\day4\bin\Debug\net8.0\day4p1.deps.json
+C:\Users\Michael Terekhov\advent_of_code2023\day4\bin\Debug\net8.0\day4p1.runtimeconfig.json
+C:\Users\Michael Terekhov\advent_of_code2023\day4\bin\Debug\net8.0\day4p1.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day4\bin\Debug\net8.0\day4p1.pdb
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.AssemblyInfoInputs.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.AssemblyInfo.cs
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.csproj.CoreCompileInputs.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.sourcelink.json
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\refint\day4p1.dll
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.pdb
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\day4p1.genruntimeconfig.cache
+C:\Users\Michael Terekhov\advent_of_code2023\day4\obj\Debug\net8.0\ref\day4p1.dll
